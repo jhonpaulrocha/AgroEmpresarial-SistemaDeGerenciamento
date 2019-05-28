@@ -28,7 +28,7 @@
 
  ------------------------------
 
-# Agro Empresarial - Sistema De Gerenciamento
+# OrganizAgro - Plataforma de Gerenciamento da cadeia hortifruti.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Este artigo descreve um sistema de gerenciamento para empresas de vendas de peças agrícolas onde é possível efetuar a venda de peças controlando seu estoque com entradas e saídas e uma ferramenta financeira responsável pelo gerenciamento de pagamentos. Abordando também o desenvolvimento do sistema em etapas contendo diagramas de caso de uso, diagrama de classes, modelagem de banco de dados, tecnologias utilizadas. principais telas do sistemas e as camada de segurança do sistema.
 
